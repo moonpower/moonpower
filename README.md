@@ -1,15 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=Youngdongbot&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+</div>
 
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=moonpower&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-## 🧾 Top Language
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonpower&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 About Me:
 
-## 📊 Stats
-[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonpower)](https://github.com/anuraghazra/github-readme-stats)
+- 2012년부터 본격적으로 개발을 시작하여 Java부터 Javascript를 사용했습니다.
+- React, Electron에 관심을 갖고 공부 중입니다.
 
-## 🛠 Tech Stack
+---
+
+### 🛠 Tech Stack:
 
 ![java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -32,9 +43,12 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![macos](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
-## 🛎 Counter
+---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonpower%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 🔥 My Stats:
+[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonpower)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonpower&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto)
 
