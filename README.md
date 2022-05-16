@@ -2,14 +2,14 @@
 
 
 
-## Top Language
+## 🧾 Top Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonpower&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stats
+## 📊 Stats
 [![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonpower)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tech Skills
+## 🛠 Tech Stack
 
 ![java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -28,5 +28,13 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
+![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![macos](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
+
+## 🛎 Counter
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonpower%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto)
+
