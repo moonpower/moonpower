@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
 
+<div align="center">
+  <a href="https://moonpower.github.io/" target="_blank">블로그</a>
+</div>
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=moonpower&style=flat-square&color=blue" alt=""/>
 </div>
