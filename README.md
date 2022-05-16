@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://moonpower.github.io/" target="_blank">블로그</a>
+  <a href="https://moonpower.github.io/"><img src="https://img.shields.io/badge/-moonpower.github.io-brightgreen?style=for-the-badge"/></a>
 </div>
 
 <div id="badges" align="center">
